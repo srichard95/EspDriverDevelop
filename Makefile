@@ -86,7 +86,7 @@ endif
 PROJECT = EspDriverDevelop_FirmWire
 
 # Imported source files and paths
-CHIBIOS = ../../chibios161
+CHIBIOS = c:/ChibiStudio/chibios161
 # Startup files.
 include $(CHIBIOS)/os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk
 # HAL-OSAL files (optional).
